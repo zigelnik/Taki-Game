@@ -1,0 +1,4 @@
+This program is designed to imitate the TAKI game.
+The program starts by choosing the number of players, then each player will enter his name and will get 4 cards to begin with.
+The cards vary from numbers and special cards like changing color, stopping the next turn, adding another card in same turn, etc..
+After a player has no more cards left in his hand, his name will be printed.
